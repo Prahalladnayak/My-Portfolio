@@ -1,3 +1,7 @@
+![Profile views](https://komarev.com/ghpvc/?username=Prahalladnayak&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Prahalladnayak?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Prahalladnayak?style=social)
+
 # 👋 Hi, I'm Prahallad Nayak  
 🎯 Aspiring Data Scientist | AI/ML Enthusiast | Problem Solver  
 
