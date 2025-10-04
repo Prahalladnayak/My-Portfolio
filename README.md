@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prahallad Nayak  
-🎯 Aspiring Data Scientist | AI/ML Enthusiast | Web Developer | Problem Solver  
+🎯 Aspiring Data Scientist | AI/ML Enthusiast | Problem Solver  
 
 Welcome to my GitHub Portfolio!  
 Here, you’ll find a collection of my projects in **AI/ML, Data Science, Web Development, and Software Engineering.**  
