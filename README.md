@@ -2,6 +2,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/Prahalladnayak?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Prahalladnayak?style=social)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prahallad-nayak-9ab756290)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome&logoColor=white)](https://prahalladnayak.github.io/Portfolio-Prahallad_Nayak/)
+
+
 # 👋 Hi, I'm Prahallad Nayak  
 🎯 Aspiring Data Scientist | AI/ML Enthusiast | Problem Solver  
 
@@ -68,3 +72,9 @@ I love solving real-world problems with code and building applications that make
 ---
 
 ⭐ **Feel free to explore, fork, or contribute to my projects!**  
+## 📊 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Prahalladnayak&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prahalladnayak&layout=compact&theme=radical)
+
